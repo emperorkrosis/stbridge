@@ -1,0 +1,1 @@
+This project is a web-based spaceship bridge simulator client. And a NodeJS server component for coordinating the simulation.
